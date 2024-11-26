@@ -1,12 +1,12 @@
 # Hi 👋, I'm **Amulya Gupta**
 
-Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in **Linux** and diving deep into **Java** as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
+Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in Linux and diving deep into Java as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
 
 ## About Me
 - 🔭 I’m currently working on **Linux**.
 - 🤝 I’m looking to collaborate on **Linux projects**.
 - 🌱 I’m currently learning **Java**.
-- 💬 Ask me about **HTML, CSS, Java, JavaScript, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain**.
+- 💬 Ask me about **HTML, CSS, Java, JavaScript, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain, PowerShell**.
 - 📫 How to reach me: **amulya.gupta.2556@gdgoenkarohini.edu.in**
 - 📱 My contact number: **+91 9560661100**
 - ⚡ Fun fact: **I am still a student!**
@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 [![PowerPoint](https://img.shields.io/badge/-PowerPoint-red?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Word](https://img.shields.io/badge/-Word-blue?style=flat-square&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ---
 
@@ -47,5 +48,4 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
-
 
