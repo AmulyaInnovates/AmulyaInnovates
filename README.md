@@ -1,23 +1,17 @@
-<p align="center">
-  # Hi 👋, I'm **Amulya Gupta**
-</p>
+# Hi 👋, I'm **Amulya Gupta**
 
-<p align="center">
-  **A Proud Coder and AI-ML Expert from India**
-</p>
+**A Proud Coder and AI-ML Expert from India**
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in Linux and diving deep into Java as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
----
-<p align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
-</p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
 
 ## About Me
 - 🔭 I’m currently working on **Linux**.
-- 🤝 I’m looking to collaborate on **Linux projects**.
+- 🧑‍💻 I’m looking to collaborate on **Linux projects**.
 - 🌱 I’m currently learning **Java**.
 - 💬 Ask me about **HTML, CSS, Java, JavaScript, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain, PowerShell**.
-- 📫 How to reach me: **amulya.gupta.2556@gdgoenkarohini.edu.in**
+- 📫 How to reach me: [amulya.gupta.2556@gdgoenkarohini.edu.in](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
 - 📱 My contact number: **+91 9560661100**
 - ⚡ Fun fact: **I am still a student!**
 
