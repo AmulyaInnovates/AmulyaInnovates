@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 <p align="left">
   ![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
 </p>
+
 ## About Me
 - 🔭 I’m currently working on **Linux**.
 - 🤝 I’m looking to collaborate on **Linux projects**.
@@ -56,4 +57,3 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | **GitHub Stats**                                                                                                                   | **Most Used Languages**                                                                                                            |
 |:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmulyaInnovates&show_icons=true&theme=radical)        | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)  |
-
