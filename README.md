@@ -47,5 +47,18 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 ---
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
 
+<div style="display: flex; justify-content: space-between;">
+
+<div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
+</div>
+
+<div style="border-left: 2px solid #333; padding-left: 15px;">
+### Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
+[![Phone](https://img.shields.io/badge/Phone-4E8BE8?style=flat-square&logo=mobile&logoColor=white)](tel:+919560661100)
+</div>
+
+</div>
