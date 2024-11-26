@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ## Connect With Me
 
-| [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in) | [![Phone](https://img.shields.io/badge/Phone-4E8BE8?style=flat-square&logo=mobile&logoColor=white)](tel:+919560661100) |
-|:------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+| [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in) | [![Phone](https://img.shields.io/badge/Phone-4E8BE8?style=flat-square&logo=mobile&logoColor=white)](tel:+919560661100) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@AmulyaInnovates) |
+|:------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 
 ---
 
@@ -47,3 +47,4 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | **GitHub Stats**                                                                                                                   | **Most Used Languages**                                                                                                            |
 |:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmulyaInnovates&show_icons=true&theme=radical)        | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)  |
+
