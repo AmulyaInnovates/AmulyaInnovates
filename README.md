@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Amulya Gupta**
 
-**A Proud Coder and AI-ML Expert from India**
+**A Proud Coder and AI-ML Expert from India** 
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in Linux and diving deep into Java as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
 
