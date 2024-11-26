@@ -34,8 +34,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
 [![Phone](https://img.shields.io/badge/Phone-4E8BE8?style=flat-square&logo=mobile&logoColor=white)](tel:+919560661100)
 
-## Most Used Languages
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+# My Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
+
