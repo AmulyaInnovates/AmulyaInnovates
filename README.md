@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Linux**.
 - 🤝 I’m looking to collaborate on **Linux projects**.
 - 🌱 I’m currently learning **Java**.
-- 💬 Ask me about **HTML, CSS, Java, AI-ML, App Development, Web Development, Python, TensorFlow, and Flask**.
+- 💬 Ask me about **HTML, CSS, Java, AI-ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, and Blockchain**.
 - 📫 How to reach me: **amulya.gupta.2556@gdgoenkarohini.edu.in**
 - ⚡ Fun fact: **I am still a student!**
 
@@ -21,6 +21,10 @@
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Flask](https://img.shields.io/badge/-Flask-darkblue?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MetaMask](https://img.shields.io/badge/-MetaMask-orange?style=flat-square&logo=metamask&logoColor=white)](https://metamask.io/)
+[![Ganache](https://img.shields.io/badge/-Ganache-blue?style=flat-square&logo=ethereum&logoColor=white)](https://www.trufflesuite.com/ganache)
+[![Block Coding](https://img.shields.io/badge/-Block%20Coding-blueviolet?style=flat-square&logo=react&logoColor=white)](https://www.scratch.mit.edu/)
+[![Blockchain](https://img.shields.io/badge/-Blockchain-darkcyan?style=flat-square&logo=ethereum&logoColor=white)](https://www.blockchain.com/)
 
 ## Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
