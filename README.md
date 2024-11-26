@@ -1,68 +1,51 @@
-# Hello! I'm Amulya Gupta 👋
+# Hi 👋, I'm **Amulya Gupta**
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in **Linux** and diving deep into **Java** as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
 
 ## About Me
-
-I'm a driven individual with a diverse skill set in **web development**, **app development**, **AI/ML**, and **blockchain**. Here's a snapshot of my skills:
-
-- **Web Development**: I specialize in **HTML**, **CSS**, **JavaScript**, and **React** to create engaging websites.
-- **App Development**: **Java**, **Python**, and **Flutter** are my go-to tools for building powerful applications.
-- **AI/ML**: With **TensorFlow** and **Keras**, I am building intelligent systems to solve complex problems.
-- **Blockchain**: I’m currently exploring **MetaMask** and **Ganache** for decentralized applications.
-
-Though still a student, I’m always eager to learn, collaborate, and tackle challenges in the tech world. I look forward to the opportunities that allow me to push my boundaries and grow my skills further.
-
-### 🌱 **Currently learning**: Java
-
-### 🤝 **Looking to collaborate**:
-- Open-source projects
-- Linux-related tasks
-- AI/ML research
-
-### 📬 **You can reach me**:  
-[amulya.gupta.2556@gdgoenkarohini.edu.in](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)  
-📱 **Contact number**: +91 9560661100
+- 🔭 I’m currently working on **Linux**.
+- 🤝 I’m looking to collaborate on **Linux projects**.
+- 🌱 I’m currently learning **Java**.
+- 💬 Ask me about **HTML, CSS, Java, JavaScript, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain**.
+- 📫 How to reach me: **amulya.gupta.2556@gdgoenkarohini.edu.in**
+- 📱 My contact number: **+91 9560661100**
+- ⚡ Fun fact: **I am still a student!**
 
 ---
 
-## My Tech Stack
-
-Here's a breakdown of my most-used technologies based on my repositories:
-
-### 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical&langs_count=6)
-
-### 📊 Graph Explanation:
-- **HTML** (15%)
-- **CSS** (15%)
-- **JavaScript** (15%)
-- **Java** (18%)
-- **Python** (20%)
-- **TensorFlow & Flask** (17%)
-
-These percentages reflect my contributions and focus in various fields of development, AI/ML, and web/app development. The numbers may vary based on my ongoing projects, but this gives you an idea of my expertise.
+## My GitHub Stats
+![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmulyaInnovates&show_icons=true&theme=radical)
 
 ---
 
-## 📈 GitHub Stats
-
-![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmulyaInnovates&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-Feel free to check out my repositories and reach out if you'd like to collaborate!
+## Skills
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![AI/ML](https://img.shields.io/badge/-AI/ML-green?style=flat-square&logo=python&logoColor=white)](https://www.ibm.com/artificial-intelligence)
+[![App Development](https://img.shields.io/badge/-App%20Development-purple?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+[![Web Development](https://img.shields.io/badge/-Web%20Development-lightblue?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Flask](https://img.shields.io/badge/-Flask-darkblue?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MetaMask](https://img.shields.io/badge/-MetaMask-orange?style=flat-square&logo=metamask&logoColor=white)](https://metamask.io/)
+[![Ganache](https://img.shields.io/badge/-Ganache-blue?style=flat-square&logo=ethereum&logoColor=white)](https://www.trufflesuite.com/ganache)
+[![Block Coding](https://img.shields.io/badge/-Block%20Coding-blueviolet?style=flat-square&logo=react&logoColor=white)](https://www.scratch.mit.edu/)
+[![Blockchain](https://img.shields.io/badge/-Blockchain-darkcyan?style=flat-square&logo=ethereum&logoColor=white)](https://www.blockchain.com/)
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-red?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Word](https://img.shields.io/badge/-Word-blue?style=flat-square&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
+[![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ---
 
-## Connect with Me
-
-- 📧 **Email**: [amulya.gupta.2556@gdgoenkarohini.edu.in](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
-- 🌐 **LinkedIn**: [Amulya Gupta](https://www.linkedin.com/in/amulya-gupta/)
-- 🐦 **Twitter**: [@AmulyaGupta](https://twitter.com/AmulyaGupta)
+## Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
+[![Phone](https://img.shields.io/badge/Phone-4E8BE8?style=flat-square&logo=mobile&logoColor=white)](tel:+919560661100)
 
 ---
 
-I’m always open to discussing new technologies, collaborating on open-source projects, and learning from others. Let’s connect and build something great together! 😄
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
 
----
 
