@@ -36,5 +36,4 @@
 
 # My Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaInnovates&layout=compact&theme=radical&langs_count=6)
