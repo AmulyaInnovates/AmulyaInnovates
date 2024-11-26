@@ -1,7 +1,16 @@
-# Hi 👋, I'm **Amulya Gupta**
+<p align="center">
+  # Hi 👋, I'm **Amulya Gupta**
+</p>
+
+<p align="center">
+  **A Proud Coder and AI-ML Expert from India**
+</p>
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in Linux and diving deep into Java as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
-
+---
+<p align="left">
+  ![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
+</p>
 ## About Me
 - 🔭 I’m currently working on **Linux**.
 - 🤝 I’m looking to collaborate on **Linux projects**.
