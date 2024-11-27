@@ -55,11 +55,13 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ## My Certificates
 
-| ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) | ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) |
-| --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) | ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) |
-| ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) |
-| ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
+| ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) | ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) |
+| ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) |
+| ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) |
+| ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) | ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) |
+| ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
 
 ---
 ---
