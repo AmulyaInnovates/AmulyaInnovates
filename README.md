@@ -53,8 +53,14 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ---
 
-## Support
-[![Support](https://camo.githubusercontent.com/7b8f7343bfc6e3c65c7901846637b603fd812f1a5f768d8b0572558bde859eb9/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67)](https://buymeacoffee.com/amulyainnovates)
+## My Certificates
+
+| ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) | ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) | ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) |
+| ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) |
+| ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
+
 ---
 ---
 ## ASCII Image :
