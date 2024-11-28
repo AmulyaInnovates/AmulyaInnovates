@@ -62,6 +62,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) |
 | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) | ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) |
 | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
+| ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/App%20Developer_page-0001.jpg) | ![Certificate 14](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/Game%20Developer_page-0001.jpg) |
 
 ---
 ---
