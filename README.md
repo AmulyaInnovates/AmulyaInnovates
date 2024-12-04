@@ -41,9 +41,12 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ## My Certificates
 
-| ![1st Rank - Chat Bot Competition](https://github.com/AmulyaInnovates/chatgapata-/blob/651c97dec0931cbc640905080d795d088aac3340/1st%20Rank%20-%20Chat%20Bot%20Competition.png) | ![At Observation Research Foundation with Sunjoy Joshi](https://github.com/AmulyaInnovates/chatgapata-/blob/651c97dec0931cbc640905080d795d088aac3340/At%20Observation%20Research%20Foundation%20with%20Sunjoy%20Joshi.png) |
+## My Achievements
 
-| ![Yashobhumi(Dwarka) - Fire and Drone Expo](https://github.com/AmulyaInnovates/chatgapata-/blob/651c97dec0931cbc640905080d795d088aac3340/Yashobhumi(Dwarka)%20-%20Fire%20and%20Drone%20Expo.png) | ![At DTU giving FIIT-JEE Exam](https://github.com/AmulyaInnovates/chatgapata-/blob/651c97dec0931cbc640905080d795d088aac3340/At%20DTU%20giving%20FIIT-JEE%20Exam.png) |
+| <img src="https://github.com/AmulyaInnovates/chatgapata-/raw/651c97dec0931cbc640905080d795d088aac3340/1st%20Rank%20-%20Chat%20Bot%20Competition.png" width="300"> | <img src="https://github.com/AmulyaInnovates/chatgapata-/raw/651c97dec0931cbc640905080d795d088aac3340/At%20Observation%20Research%20Foundation%20with%20Sunjoy%20Joshi.png" width="300"> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img src="https://github.com/AmulyaInnovates/chatgapata-/raw/651c97dec0931cbc640905080d795d088aac3340/Yashobhumi(Dwarka)%20-%20Fire%20and%20Drone%20Expo.png" width="300"> | <img src="https://github.com/AmulyaInnovates/chatgapata-/raw/651c97dec0931cbc640905080d795d088aac3340/At%20DTU%20giving%20FIIT-JEE%20Exam.png" width="300"> |
+
 
 | ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
