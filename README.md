@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ---
 
-## My Certificates
 
 ## My Achievements
 
