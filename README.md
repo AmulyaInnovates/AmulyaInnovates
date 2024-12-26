@@ -54,6 +54,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) | ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) |
 | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
 | ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/App%20Developer_page-0001.jpg) | ![Certificate 14](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/Game%20Developer_page-0001.jpg) |
+| ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/32e39eb77c20b5de17e3a2fa776e16e378e2e0ba/Java%20Developer%20Certificate%20(1)_page-0001.jpg) |
 
 ---
 ---
