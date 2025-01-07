@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9cea78a1-7e49-4d89-a43a-57bf9544c0b0)# Hi 👋, I'm **Amulya Gupta**
+# Hi 👋, I'm **Amulya Gupta**
 
 **A Proud Full-Stack Developer and AI-ML Expert from India** 
 
