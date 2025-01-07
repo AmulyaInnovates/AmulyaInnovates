@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Amulya Gupta**
+![image](https://github.com/user-attachments/assets/9cea78a1-7e49-4d89-a43a-57bf9544c0b0)# Hi 👋, I'm **Amulya Gupta**
 
 **A Proud Full-Stack Developer and AI-ML Expert from India** 
 
@@ -49,6 +49,8 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) | ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) |
+| ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate.jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate%20(1).jpg) |
+| ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(1).jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(2).jpg) |
 | ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) |
 | ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) |
 | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) | ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) |
