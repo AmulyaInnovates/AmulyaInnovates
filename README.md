@@ -48,21 +48,23 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 | ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate.jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate%20(1).jpg) |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(1).jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(2).jpg) |
-
-| ![Certificate 13](<iframe width="420" height="627" src="https://www.youtube.com/embed/HxD2MW6CygQ" title="🔒 Cyber Security in India: Challenges &amp; Solutions by Amulya Gupta 🚨" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>) |
+| ![Certificate 5](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(1).jpg) | ![Certificate 6](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(2).jpg) |
 
 | ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) | ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) |
 | ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) |
 | ![Certificate 7](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert6.jpeg) | ![Certificate 8](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert8.jpeg) |
 | ![Certificate 9](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert9.jpeg) | ![Certificate 10](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert10.jpeg) |
 | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
 | ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/App%20Developer_page-0001.jpg) | ![Certificate 14](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/Game%20Developer_page-0001.jpg) |
-| ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/32e39eb77c20b5de17e3a2fa776e16e378e2e0ba/Java%20Developer%20Certificate%20(1)_page-0001.jpg) |
+| ![Certificate 15](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/32e39eb77c20b5de17e3a2fa776e16e378e2e0ba/Java%20Developer%20Certificate%20(1)_page-0001.jpg) |
 
----
----
+## Featured Video
+
+[![Cyber Security in India: Challenges & Solutions](https://img.youtube.com/vi/HxD2MW6CygQ/0.jpg)](https://www.youtube.com/watch?v=HxD2MW6CygQ)
+
+
 ## ASCII Image :
 
 
