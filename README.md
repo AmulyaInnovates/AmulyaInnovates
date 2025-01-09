@@ -49,6 +49,10 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate.jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/certificate%20(1).jpg) |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![Certificate 3](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(1).jpg) | ![Certificate 4](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/45ed4af2ba00c2e94c9c26347c4b41082a9d0629/download%20(2).jpg) |
+
+| ![Certificate 3](https://youtu.be/HxD2MW6CygQ) |
+
+
 | ![Certificate 1](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert1.jpeg) | ![Certificate 2](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert2.jpeg) |
 | ![Certificate 3](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert3.jpeg) | ![Certificate 4](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert4.jpeg) |
 | ![Certificate 5](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert5.jpeg) | ![Certificate 6](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert7.jpeg) |
