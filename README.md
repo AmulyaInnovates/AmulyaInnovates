@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 ## About Me
 - 🔭 I’m currently working on **Linux**.
 - 🧑‍💻 I’m looking to collaborate on **Linux projects**.
-- 🌱 I’m currently learning **Java**.
-- 💬 Ask me about **HTML, CSS, Java, JavaScript, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain, PowerShell**.
+- 🌱 I’m currently learning **SQL**.
+- 💬 Ask me about **HTML, CSS, Java, JavaScript, SQL, AI/ML, App Development, Web Development, Python, TensorFlow, Flask, MetaMask, Ganache, Block Coding, Blockchain, PowerShell**.
 - 📫 How to reach me: [amulya.gupta.2556@gdgoenkarohini.edu.in](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in)
 - 📱 My contact number: **+91 9560661100**
 - ⚡ Fun fact: **I am still a student!**
