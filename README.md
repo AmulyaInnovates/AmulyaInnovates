@@ -59,6 +59,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 | ![Certificate 11](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert11.jpeg) | ![Certificate 12](https://github.com/AmulyaInnovates/chatgapata-/blob/cb7bd6994dffd42b636ea8878eec18927a8bb4fd/cert12.jpeg) |
 | ![Certificate 13](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/App%20Developer_page-0001.jpg) | ![Certificate 14](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/51e17d327c8a445a5fb8f62bd3e6a0a9bf543465/Game%20Developer_page-0001.jpg) |
 | ![Certificate 15](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/32e39eb77c20b5de17e3a2fa776e16e378e2e0ba/Java%20Developer%20Certificate%20(1)_page-0001.jpg) | ![Certificate 16](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/9b8acea6e86bc8df8997de0d71264bd9d547ecd1/DSA.png) |
+| ![Certificate 17](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/9f7373097a5c29da9b8dee20e3eddc3204d58ec4/AP%20Computer%20Science.png) | ![Certificate 18]() |
 
 ## Featured Video
 [![Cyber Security in India: Challenges & Solutions](https://img.youtube.com/vi/HxD2MW6CygQ/0.jpg)](https://www.youtube.com/watch?v=HxD2MW6CygQ)
