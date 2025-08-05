@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
 
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## About Me
 - 🔭 I’m currently working on **SQL**.
