@@ -45,6 +45,10 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmulyaInnovates?theme=dark&font=Sree%20Krushnadevaraya&ext=heatmap)
+
+---
+
 ![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## My Achievements
