@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20Views&color=blue&style=flat-square)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## About Me
 - 🔭 I’m currently working on **SQL**.
@@ -19,11 +19,15 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 ---
 
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## Connect With Me
 
 | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulya.gupta.2556@gdgoenkarohini.edu.in) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@AmulyaInnovates) |
 
 ---
+
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## Skills
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![AI/ML](https://img.shields.io/badge/-AI/ML-green?style=flat-square&logo=python&logoColor=white)](https://www.ibm.com/artificial-intelligence)  [![App Development](https://img.shields.io/badge/-App%20Development-purple?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)  [![Web Development](https://img.shields.io/badge/-Web%20Development-lightblue?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  [![Flask](https://img.shields.io/badge/-Flask-darkblue?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  [![MetaMask](https://img.shields.io/badge/-MetaMask-orange?style=flat-square&logo=metamask&logoColor=white)](https://metamask.io/)  [![Ganache](https://img.shields.io/badge/-Ganache-blue?style=flat-square&logo=ethereum&logoColor=white)](https://www.trufflesuite.com/ganache)  [![Block Coding](https://img.shields.io/badge/-Block%20Coding-blueviolet?style=flat-square&logo=react&logoColor=white)](https://www.scratch.mit.edu/)  [![Blockchain](https://img.shields.io/badge/-Blockchain-darkcyan?style=flat-square&logo=ethereum&logoColor=white)](https://www.blockchain.com/)  [![PowerPoint](https://img.shields.io/badge/-PowerPoint-red?style=flat-square&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  [![Word](https://img.shields.io/badge/-Word-blue?style=flat-square&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)  [![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)  [![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-brightgreen?style=flat-square&logo=mit&logoColor=white)](https://appinventor.mit.edu/)  [![Thunkable](https://img.shields.io/badge/-Thunkable-lightgreen?style=flat-square&logo=thunkable&logoColor=white)](https://thunkable.com/)  
@@ -33,6 +37,8 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 ---
 
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## My GitHub Stats and Most Used Languages
 
 | **GitHub Stats**                                                                                                                   | **Most Used Languages**                                                                                                            |
@@ -41,6 +47,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 ---
 
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## My Achievements
 
@@ -63,8 +70,13 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 | ![Certificate 15](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/32e39eb77c20b5de17e3a2fa776e16e378e2e0ba/Java%20Developer%20Certificate%20(1)_page-0001.jpg) | ![Certificate 16](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/9b8acea6e86bc8df8997de0d71264bd9d547ecd1/DSA.png) |
 | ![Certificate 17](https://github.com/AmulyaInnovates/HHW.-COMPUTER-1/blob/9f7373097a5c29da9b8dee20e3eddc3204d58ec4/AP%20Computer%20Science.png) | ![Certificate 18]() |
 
+
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## Featured Video
 [![Cyber Security in India: Challenges & Solutions](https://img.youtube.com/vi/HxD2MW6CygQ/0.jpg)](https://www.youtube.com/watch?v=HxD2MW6CygQ)
+
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 ## ASCII Image :
