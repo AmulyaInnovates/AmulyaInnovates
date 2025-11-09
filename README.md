@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate student with a strong interest in technology and development. Currently, I'm honing my skills in Linux and diving deep into Java as part of my learning journey. My goal is to continuously grow as a developer and explore new technologies.
 
-![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Separator](https://komarev.com/ghpvc/?username=AmulyaInnovates&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 - 🔭 I’m currently working on **SQL**.
